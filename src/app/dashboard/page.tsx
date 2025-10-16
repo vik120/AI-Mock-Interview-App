@@ -19,7 +19,7 @@ export default function page() {
                             Dashboard
                         </h3>
                         <p className="text-gray-600 mt-2">
-                            Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                            Create and Start your AI Mockup interviews
                         </p>
                     </div>
                     {/* <div className="mt-6 md:mt-0">
@@ -31,7 +31,7 @@ export default function page() {
                         </a>
                     </div> */}
                 </div>
-                <div className="">
+                <div className="mt-5">
                     <AddNewInterview />
                 </div>
             </div>
